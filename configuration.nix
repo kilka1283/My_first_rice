@@ -96,7 +96,6 @@
     unzip
     gnutar
     arc-theme
-    hyprshot
     hyprlock
     git
     ];
