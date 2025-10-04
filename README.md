@@ -32,7 +32,4 @@ For now, I can show you the results:
 ### Final Result
 ![My Desktop](Screenshots/Desktop.png)
 
-### Wofi Menu
-![Wofi Launcher](Screenshots/Wofi.png)
-
 Guide coming soon! 🔧
