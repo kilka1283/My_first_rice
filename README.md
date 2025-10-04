@@ -30,9 +30,9 @@ For now, I can show you the results:
 ## Screenshots 📸
 
 ### Final Result
-![My Desktop](screenshots/Desktop.png)
+![My Desktop](Screenshots/Desktop.png)
 
 ### Wofi Menu
-![Wofi Launcher](screenshots/Wofi.png)
+![Wofi Launcher](Screenshots/Wofi.png)
 
 Guide coming soon! 🔧
