@@ -15,7 +15,7 @@ Thank you for checking out my repository! This is my first rice configuration fo
 - Wofi  - Application launcher
 
 ## Wallpapers
-- dark-bright-mountains.jpg - My current wallpaper
+- `dark-bright-mountains.jpg` - My current wallpaper
 
 ## Themes
 - Arc Dark - GTK theme
