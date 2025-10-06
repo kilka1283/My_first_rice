@@ -4,7 +4,7 @@ Thank you for checking out my repository! This is my first rice configuration fo
 
 ## What's Inside 🗂
 
-### Configurations:
+**Configurations:**
 
 - Hyprland - Window manager config
 
@@ -14,10 +14,10 @@ Thank you for checking out my repository! This is my first rice configuration fo
 
 - Wofi  - Application launcher
 
-## Wallpapers
+**Wallpapers:**
 - `dark-bright-mountains.jpg` - My current wallpaper
 
-## Themes
+**Themes**
 - Arc Dark - GTK theme
 - McMojave Cursors - Cursor theme
 
@@ -25,11 +25,11 @@ Thank you for checking out my repository! This is my first rice configuration fo
 Sorry for the lack of installation guide right now - I'm still working on it! 
 In the meantime, you can browse the config files to see the setup, or Google how to install each component.
 
-For now, I can show you the results:
+For now, I can show you the result:
 
 ## Screenshots 📸
 
-### Final Result
+**Final Result**
 ![My Desktop](Screenshots/Desktop.png)
 
 Guide coming soon! 🔧
