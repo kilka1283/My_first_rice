@@ -10,8 +10,6 @@ Thank you for checking out my repository! This is my first rice configuration fo
 
 - Kitty - Terminal emulator
 
-- NixOS - System configuration
-
 - Wofi  - Application launcher
 
 **Wallpapers:**
