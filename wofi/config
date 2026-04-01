@@ -1,0 +1,17 @@
+# Position and size
+width = 600
+height = 400
+location = center
+
+# Appearance
+mode = drun
+show = drun
+prompt = Search...
+filter_rate = 100
+allow_images = true
+
+# Colors
+background_color = #505050
+text_color = #e8e8e8
+selected_background = #666666
+selected_text_color = #f0f0f0
